@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "RC_test_25",
+			"path": "."
+		},
+		{
+			"name": "RC_test_3",
+			"path": "../../RC_test_3/RC_test_3"
+		},
+		{
+			"path": "../../cleanflight"
+		}
+	],
+	"settings": {}
+}
